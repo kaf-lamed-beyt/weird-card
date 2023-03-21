@@ -1,2 +1,13 @@
 # weird-card-transitions
-card transitions that leverages on css positioning
+
+I've always hated the concept of positioning in CSS because it felt too far-fetched to me. I struggled so much to grasp the concept behind it.
+
+Now, that i am getting close to understanding it a bit. I tried making this card that leverages on positioning, simple transitions and a keyframe.
+
+## why?
+
+Why not?
+
+## LICENSE?
+
+Feel free to whatever you want with it.
