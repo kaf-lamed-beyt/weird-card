@@ -1,6 +1,6 @@
 # weird-card-transitions
 
-I've always hated the concept of positioning in CSS because it felt too far-fetched to me. I struggled so much to grasp the concept behind it.
+I've always disliked the concept of positioning in CSS because it felt too far-fetched to me, and because i was too lazy to sit with it. I struggled so much to grasp the concept behind it.
 
 Now, that i am getting close to understanding it a bit. I tried making this card that leverages on positioning, simple transitions and a keyframe.
 

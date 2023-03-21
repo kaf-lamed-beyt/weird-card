@@ -1,0 +1,25 @@
+{
+  "name": "weird-card",
+  "version": "1.0.0",
+  "description": "I've always disliked the concept of positioning in CSS because it felt too far-fetched to me, and because i was too lazy to sit with it. I struggled so much to grasp the concept behind it.",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass scss/main.scss style/main.css",
+    "watch": "sass --watch scss/main.scss:style/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaf-lamed-beyt/weird-card-transitions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaf-lamed-beyt/weird-card-transitions/issues"
+  },
+  "homepage": "https://github.com/kaf-lamed-beyt/weird-card-transitions#readme",
+  "dependencies": {
+    "sass": "^1.59.3"
+  },
+  "type": "module"
+}
